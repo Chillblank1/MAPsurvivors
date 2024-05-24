@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977049940807",
+    "project_id": "smartspend-3333",
+    "storage_bucket": "smartspend-3333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977049940807:android:a4d0178542c089f7a65262",
+        "android_client_info": {
+          "package_name": "com.example.mysmartspend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEcheTkJ7W_7WY7fdLdyD6GBrEcDLM4GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977049940807:android:d19a2d9694e82469a65262",
+        "android_client_info": {
+          "package_name": "com.example.smartspend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEcheTkJ7W_7WY7fdLdyD6GBrEcDLM4GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
